@@ -1,1 +1,1 @@
-# fitbit-auth
+# fitbit-data-collection
